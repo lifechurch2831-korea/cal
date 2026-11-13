@@ -1,18 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//LifeChurch Korea//Schedule Feed 1.0//KO
+PRODID:-//Custom Calendar//Schedule Feed 1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:라이프처치 감사 알람
 X-WR-TIMEZONE:Asia/Seoul
-
 BEGIN:VEVENT
-UID:gratitude-test-20261113-1840@lifechurch.kr
-DTSTAMP:20261113T092900Z
-DTSTART:20261113T094000Z
-DTEND:20261113T095000Z
+UID:gratitude-20261113-1910-clean@lifechurch.kr
+DTSTAMP:20261113T095700Z
+DTSTART:20261113T101000Z
+DTEND:20261113T102000Z
 SUMMARY:하루를 시작하는 감사 알람
-DESCRIPTION:오늘 하루 하나님의 은혜 안에서 시작하셨나요?\n아침을 시작하며 지금 이 순간 하던 일들을 잠시 멈추고, 이렇게 기도해봅시다.\n\n"하나님 감사합니다."
+DESCRIPTION:오늘 하루 하나님의 은혜 안에서 시작하셨나요? 아침을 시작하며 지금 이 순간 하던 일들을 잠시 멈추고 '하나님 감사합니다.'라고 기도해봅시다.
+LOCATION:온라인
 STATUS:CONFIRMED
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -22,5 +22,4 @@ DESCRIPTION:Reminder
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
-
 END:VCALENDAR
