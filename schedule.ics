@@ -6,12 +6,13 @@ METHOD:PUBLISH
 X-WR-CALNAME:라이프처치 감사 알람
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-UID:gratitude-20261114-1230-recovery@lifechurch.kr
-DTSTAMP:20261114T031700Z
-DTSTART:20261114T033000Z
-DTEND:20261114T034000Z
-SUMMARY:감사 알림 복구 테스트
-DESCRIPTION:감사 알림 복구 테스트입니다. 내용을 보셨다면 라인이나 카톡으로 알람이 왔다고 알려주세요. / 라이프처치 감사릴레이 https://www.lifechurch.co.kr/thanksgod-2026 / 라이프워십 주중예배 일정 https://www.lifechurch.co.kr/worshipnight
+UID:gratitude-20261114-1240-url-split@lifechurch.kr
+DTSTAMP:20261114T033100Z
+DTSTART:20261114T034000Z
+DTEND:20261114T035000Z
+SUMMARY:감사 알림 최종 테스트
+DESCRIPTION:감사 알림 테스트 중간 점검입니다. 내용을 보셨다면 라인이나 카톡으로 저에게 알람이 왔다고 알려주세요.
+URL:https://www.lifechurch.co.kr/thanksgod-2026
 STATUS:CONFIRMED
 SEQUENCE:1
 TRANSP:OPAQUE
@@ -22,12 +23,13 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gratitude-20261114-2100-night-v2@lifechurch.kr
-DTSTAMP:20261114T031700Z
+UID:gratitude-20261114-2100-night-v4@lifechurch.kr
+DTSTAMP:20261114T033100Z
 DTSTART:20261114T120000Z
 DTEND:20261114T121000Z
 SUMMARY:하루를 마치며 감사 알람
-DESCRIPTION:오늘 하루를 마무리하며 하나님께 이렇게 기도합시다. '하나님 감사합니다.' 감사의 고백들로 오늘 하루가 은혜로 채워지기를 소망합니다. / 라이프처치 감사 릴레이 https://www.lifechurch.co.kr/thanksgod-2026 / 오늘의 감사액션을 잊지 말아요! 시편 100편 필사하기.
+DESCRIPTION:오늘 하루를 마무리하며 하나님께 이렇게 기도합시다. '하나님 감사합니다.' 감사의 고백들로 오늘 하루가 은혜로 채워지기를 소망합니다. 오늘의 감사액션을 잊지 말아요! 시편 100편 필사하기.
+URL:https://www.lifechurch.co.kr/thanksgod-2026
 STATUS:CONFIRMED
 SEQUENCE:1
 TRANSP:OPAQUE
