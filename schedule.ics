@@ -6,40 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:라이프처치 감사 알람
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-UID:gratitude-20261113-1925-midday@lifechurch.kr
-DTSTAMP:20261113T102400Z
-DTSTART:20261113T102500Z
-DTEND:20261113T102800Z
-SUMMARY:하루의 중간에서\, 감사 알람
-DESCRIPTION:하루의 중간에 다시 한번 하던 모든 일을 멈추고\, 하나님께 시선을 돌려 이렇게 고백해 봅시다.\n'하나님\, 감사합니다.'\n\n라이프처치 홈페이지\nhttps://www.lifechurch.co.kr\n\n감사릴레이\nhttps://www.lifechurch.co.kr/thanksgod-2026
-STATUS:CONFIRMED
-SEQUENCE:0
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gratitude-20261113-1928-evening@lifechurch.kr
-DTSTAMP:20261113T102400Z
-DTSTART:20261113T102800Z
-DTEND:20261113T103500Z
-SUMMARY:하루의 끝에서\, 감사 알람
-DESCRIPTION:하루를 마무리 하며\, 다시 한번 하나님께 이렇게 고백해 봅시다.\n'하나님\, 감사합니다.'\n\n라이프처치 홈페이지\nhttps://www.lifechurch.co.kr\n\n감사릴레이\nhttps://www.lifechurch.co.kr/thanksgod-2026
-STATUS:CONFIRMED
-SEQUENCE:0
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gratitude-20261114-0800-morning@lifechurch.kr
-DTSTAMP:20261113T102400Z
+DTSTAMP:20261114T014900Z
 DTSTART:20261113T230000Z
 DTEND:20261113T231000Z
 SUMMARY:하루를 시작하는 '감사 알람'
@@ -54,8 +22,24 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gratitude-20261114-1110-check@lifechurch.kr
+DTSTAMP:20261114T014900Z
+DTSTART:20261114T021000Z
+DTEND:20261114T022000Z
+SUMMARY:감사 알림 테스트\, 중간 점검용
+DESCRIPTION:감사 알림 테스트 중간 점검입니다.\n내용을 혹시 보셨다면\, 라인이나 카톡으로 저에게 알람이 왔다고 알려주세요.\n\n라이프처치 감사릴레이\nhttps://www.lifechurch.co.kr/thanksgod-2026\n\nEVERYDAY WITH GOD 말씀 방송\nhttps://www.youtube.com/playlist?list=PL3l6FGzp8nGZxHG4QZ5Bzf2YdCh6kA4gs\n\nEVERYDAY WITH GOD 큐티책 구입\nhttps://www.lifechurch.co.kr/everydaywithgod/?idx=1\n\n라이프워십 주중예배 일정\nhttps://www.lifechurch.co.kr/worshipnight
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gratitude-20261114-1200-noon@lifechurch.kr
-DTSTAMP:20261113T102400Z
+DTSTAMP:20261114T014900Z
 DTSTART:20261114T030000Z
 DTEND:20261114T031000Z
 SUMMARY:하루의 한 가운데에서\, 감사 알람.
@@ -71,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gratitude-20261114-2100-night@lifechurch.kr
-DTSTAMP:20261113T102400Z
+DTSTAMP:20261114T014900Z
 DTSTART:20261114T120000Z
 DTEND:20261114T121000Z
 SUMMARY:하루를 마치며\, 감사 알람.
