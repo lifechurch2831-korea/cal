@@ -6,12 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:라이프처치 감사 알람
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-UID:gratitude-20261114-1135-check@lifechurch.kr
-DTSTAMP:20261114T022500Z
-DTSTART:20261114T023500Z
-DTEND:20261114T024200Z
-SUMMARY:감사 알림 테스트 중간 점검용
-DESCRIPTION:감사 알림 테스트 중간 점검입니다. 내용을 혹시 보셨다면 라인이나 카톡으로 저에게 알람이 왔다고 알려주세요. / 라이프처치 감사릴레이 https://www.lifechurch.co.kr/thanksgod-2026 / 라이프워십 주중예배 일정 https://www.lifechurch.co.kr/worshipnight
+UID:gratitude-20261114-1145-folded@lifechurch.kr
+DTSTAMP:20261114T023400Z
+DTSTART:20261114T024500Z
+DTEND:20261114T025200Z
+SUMMARY:감사 알림 테스트\, 중간 점검용
+DESCRIPTION:감사 알림 테스트 중간 점검입니다.\n내용을 혹시 보셨다면\, 라
+ 인이나 카톡으로 저에게 알람이 왔다고 알려주세요.\n\n라이프처치 감사릴레
+ 이\nhttps://www.lifechurch.co.kr/thanksgod-2026\n\n라이프워십 주중예배 일
+ 정\nhttps://www.lifechurch.co.kr/worshipnight
 STATUS:CONFIRMED
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -23,11 +26,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gratitude-20261114-1200-noon@lifechurch.kr
-DTSTAMP:20261114T022500Z
+DTSTAMP:20261114T023400Z
 DTSTART:20261114T030000Z
 DTEND:20261114T031000Z
-SUMMARY:하루의 한 가운데에서 감사 알람
-DESCRIPTION:하루의 한복판에서 하던 일들을 잠시 멈추고 하나님께 이렇게 기도합시다. '하나님 감사합니다.' 잊고 있던 감사의 고백들이 새록새록 기억될 것입니다. / 라이프처치 감사 릴레이 https://www.lifechurch.co.kr/thanksgod-2026 / 오늘의 감사액션을 잊지 말아요! 시편 100편 필사하기.
+SUMMARY:하루의 한 가운데에서\, 감사 알람.
+DESCRIPTION:하루의 한복판에서 하던 일들을 잠시 멈추고\n하나님께 이렇게 
+ 기도합시다.\n\n'하나님\, 감사합니다.'\n\n잊고 있던 감사의 고백들이 새록
+ 새록 기억될 것입니다.\n\n- 라이프처치 감사 릴레이\nhttps://www.lifechur
+ ch.co.kr/thanksgod-2026\n\n- 오늘의 감사액션을 잊지 말아요!\n시편 100편
+ \, 필사하기.
 STATUS:CONFIRMED
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -39,11 +46,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gratitude-20261114-2100-night@lifechurch.kr
-DTSTAMP:20261114T022500Z
+DTSTAMP:20261114T023400Z
 DTSTART:20261114T120000Z
 DTEND:20261114T121000Z
-SUMMARY:하루를 마치며 감사 알람
-DESCRIPTION:오늘 하루를 마무리하며 하나님께 이렇게 기도합시다. '하나님 감사합니다.' 감사의 고백들로 오늘 하루가 은혜로 채워지기를 소망합니다. / 라이프처치 감사 릴레이 https://www.lifechurch.co.kr/thanksgod-2026 / 오늘의 감사액션을 잊지 말아요! 시편 100편 필사하기.
+SUMMARY:하루를 마치며\, 감사 알람.
+DESCRIPTION:오늘 하루를 마무리하며\,\n하나님께 이렇게 기도합시다.\n\n'하
+ 나님\, 감사합니다.'\n\n감사의 고백들로 오늘 하루가 은혜로 채워지기를 소망
+ 합니다.\n\n- 라이프처치 감사 릴레이\nhttps://www.lifechurch.co.kr/thanks
+ god-2026\n\n- 오늘의 감사액션을 잊지 말아요!\n시편 100편\, 필사하기.
 STATUS:CONFIRMED
 SEQUENCE:0
 TRANSP:OPAQUE
